@@ -2,6 +2,7 @@
 
 ---
 Links to profiles:
-[Instagram](https://www.instagram.com/timur_cravtov/) :: [Telegram](https://t.me/timurcravtov) :: [Linkedin](https://www.linkedin.com/in/timur-crav%C8%9Bov-65207b282/) 
+
+[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.instagram.com/timur_cravtov/)
 
 Email 📧 timurcravtov04@gmail.com
