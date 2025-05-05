@@ -1,4 +1,4 @@
-## Software engineering student at FAF, FCIM, UTM
+## Software engineering student at FCIM, UTM
 
 ### Social profiles
 
