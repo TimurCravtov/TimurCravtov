@@ -9,10 +9,3 @@
 ### CV
 
 [![CV](https://img.shields.io/badge/CV-Download-red?style=for-the-badge&logo=linkedin&logoColor=white)](files/TimurCravtovCV.pdf)
-
-### Joke
-
-\- What do you call fake spaghetti?
-
-\- *An impasta*.
-
